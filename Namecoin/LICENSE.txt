@@ -1,0 +1,2 @@
+Please refer to the following page to learn about license terms:
+https://github.com/namecoin/namecoin-graphics

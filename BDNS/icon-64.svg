@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
+   height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+  <g id="Layer_3">
+    <rect x="-385" y="-228" display="none" fill="#8F8F8F" width="810" height="588"/>
+  </g>
+  <g id="Layer_1">
+    <polygon display="none" fill="none" stroke="#000000" stroke-miterlimit="10" points="14.056,57.395 31.972,0.626 50.098,57.421
+      2.112,22.5 62,22.5  "/>
+    <polygon display="none" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="14.112,58 2.112,22.645
+      32,0.751 62.111,22.733 50.111,58  "/>
+    <g>
+      <defs>
+        <path id="SVGID_1_" d="M-27-33V84H83V-33H-27z M37.561,59H26.455l2.041-13.749c-2.562-1.289-4.324-5.108-4.324-8.171
+          c0-4.329,3.508-7.962,7.836-7.962c4.329,0,7.836,3.446,7.836,7.774c0,3.063-1.762,7.101-4.323,8.39L37.561,59z"/>
+      </defs>
+      <clipPath id="SVGID_2_">
+        <use xlink:href="#SVGID_1_"  overflow="visible"/>
+      </clipPath>
+      <path clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M32.008,5.529
+        C23.683,5.559,26,12.333,12.353,10.644c0,0,11.819,35.324,3,47.689"/>
+      <path clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M6.904,43.85"/>
+      <path clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M55.732,14.299
+        C30,18.829,21.206,53.999,15.353,58.333"/>
+      <path clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M6.904,45.85
+        c21.846-16.142,41.095,3.219,51.483-0.275C45.611,38.85,37.667,22.488,42.422,9.782C30.923,14.747,16.028,28.161,4.181,25.747"/>
+      <path clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-miterlimit="10" d="M48.87,58.333
+        c0,0-1.764-10.185,9.517-12.759"/>
+    </g>
+  </g>
+  <g id="Layer_4">
+    <circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="32.008" cy="5.529" r="3.258"/>
+    <circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="4.181" cy="25.747" r="3.259"/>
+    <circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="60.042" cy="25.747" r="3.259"/>
+    <circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="15.353" cy="58.333" r="3.259"/>
+    <circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="48.87" cy="58.333" r="3.259"/>
+    <circle fill="#FFFFFF" stroke="#00BF09" stroke-width="2" stroke-miterlimit="10" cx="58.387" cy="45.574" r="4.414"/>
+    <circle fill="#FFFFFF" stroke="#CC00A7" stroke-width="2" stroke-miterlimit="10" cx="6.904" cy="45.851" r="4.405"/>
+    <circle fill="#FFFFFF" stroke="#0057CC" stroke-width="2" stroke-miterlimit="10" cx="55.732" cy="14.299" r="4.53"/>
+    <circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="42.422" cy="9.782" r="2.428"/>
+    <g>
+      <path fill="#FF3B00" d="M12.353,15.646c-2.758,0-5.002-2.244-5.002-5.002c0-2.758,2.244-5.001,5.002-5.001
+        s5.002,2.244,5.002,5.001C17.355,13.402,15.111,15.646,12.353,15.646z"/>
+      <path fill="#FFFFFF" d="M12.353,6.142c2.487,0,4.502,2.015,4.502,4.501s-2.016,4.502-4.502,4.502
+        c-2.486,0-4.502-2.016-4.502-4.502S9.867,6.142,12.353,6.142 M12.353,5.142c-3.034,0-5.502,2.468-5.502,5.501
+        c0,3.034,2.468,5.502,5.502,5.502s5.502-2.468,5.502-5.502C17.855,7.61,15.387,5.142,12.353,5.142L12.353,5.142z"/>
+    </g>
+  </g>
+  <g id="Layer_5">
+    <polygon display="none" fill="#A4C29D" fill-opacity="0.9" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="
+      32.059,7.622 42.002,20.855 57.66,26.222 48.148,39.768 47.883,56.316 32.059,51.456 16.237,56.316 15.972,39.768 6.458,26.222
+      22.117,20.855   "/>
+    <path fill="#F58020" fill-opacity="0.9" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M42.002,20.855L32.059,7.622
+      l-9.942,13.233L6.458,26.222l9.513,13.545l0.266,16.549l10.997-3.378l1.261-9.188c-2.562-1.289-4.324-3.858-4.324-6.921
+      c0-4.329,3.508-7.837,7.836-7.837c4.329,0,7.836,3.508,7.836,7.837c0,3.063-1.762,5.632-4.323,6.921l1.256,9.154l11.106,3.411
+      l0.266-16.549l9.512-13.545L42.002,20.855z"/>
+  </g>
+  <g id="Layer_2">
+  </g>
+</svg>
